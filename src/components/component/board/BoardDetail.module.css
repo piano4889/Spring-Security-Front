@@ -1,0 +1,47 @@
+.boardDetail {
+    width: 100%;
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+}
+.boardDetail th {
+    text-align: center;
+}
+
+.boardDetail thead {
+    text-align: center;
+    width: 100%;
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 10px;
+}
+
+.boardDetail thead th,tr,td {
+    padding: 10px;
+}
+
+.boardDetail thead .writer {
+    width: 30%;
+
+}
+
+.boardDetail thead .title {
+    width: 50%;
+}
+
+.boardDetail thead .regdate {
+    width: 30%;
+}
+
+.boardDetail tbody td {
+    height: 300px;
+
+}
+
+.boardDetail .imgTd{
+    text-align: center;
+}
+.boardDetail img {
+    padding: 10px;
+    max-width: 500px;
+    max-height: 500px;
+}

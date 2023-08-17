@@ -1,0 +1,25 @@
+body{
+    margin:0;
+    padding:0;
+}
+
+main {
+    margin: 0;
+    position: relative;
+    padding: 0 5vw;
+}
+
+.container {
+    margin:0 auto;
+    max-width: 1040px;
+    width: 100%;
+}
+
+ul, li {
+    text-decoration: none;
+}
+
+.main table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
